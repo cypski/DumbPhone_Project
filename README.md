@@ -1,2 +1,2 @@
 # DumbPhone_Project
-A simple script to create a "dumb phone" interface on iPhone.
+Simple script to create "dumb phone" interface on iPhone.
